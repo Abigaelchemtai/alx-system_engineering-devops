@@ -1,8 +1,16 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 #server-01 login
+=======
+# server-01 login
+>>>>>>> 84d6787892f22837ade0237de925d064004e92ed
 
 eval $("ssh-agent")
 
 ssh-add ~/.ssh/school
 
+<<<<<<< HEAD
 ssh ubuntu@54.197.121.241
+=======
+ssh ubuntu@35.153.93.19
+>>>>>>> 84d6787892f22837ade0237de925d064004e92ed
